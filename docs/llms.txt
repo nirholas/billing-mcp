@@ -1,0 +1,20 @@
+# @three-ws/billing-mcp
+
+> An AI agent's own account economics over MCP — plan quotas, metered usage, invoices, receipts, and earnings. Read-only, account-scoped. Powered by three.ws.
+
+@three-ws/billing-mcp is a Model Context Protocol server from three.ws. Install: `npx -y @three-ws/billing-mcp`.
+
+## Docs
+
+- [README](https://github.com/nirholas/billing-mcp/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/billing-mcp/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/billing-mcp/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/billing-mcp/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/billing-mcp)
+- [npm](https://www.npmjs.com/package/@three-ws/billing-mcp)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/billing-mcp/issues)
+- [MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.nirholas%2Fbilling-mcp)
