@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "billing": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@three-ws/billing-mcp"
+      ],
+      "env": {
+        "THREE_WS_SESSION": "${THREE_WS_SESSION:-}"
+      }
+    }
+  }
+}
